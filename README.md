@@ -1,4 +1,4 @@
-# README - Banco de Dados de Músicas em CD
+# Banco de Dados de Músicas em CD
 
 Este repositório contém instruções SQL para criar e consultar um banco de dados de CDs de música chamado "MUSIC_CDS". O banco de dados inclui duas tabelas principais: "CDS" e "Musicas". A tabela "CDS" armazena informações sobre os CDs, enquanto a tabela "Musicas" contém detalhes sobre as músicas presentes em cada CD.
 
